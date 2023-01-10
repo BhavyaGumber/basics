@@ -15,3 +15,4 @@ int main()
 
   cout<<  gcd(5,10);
 }
+//time log(min(a,b))
